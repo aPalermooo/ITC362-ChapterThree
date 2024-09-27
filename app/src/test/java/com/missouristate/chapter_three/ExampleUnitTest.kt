@@ -1,4 +1,4 @@
-package com.missouristate.chapter_two
+package com.missouristate.chapter_three
 
 import org.junit.Test
 

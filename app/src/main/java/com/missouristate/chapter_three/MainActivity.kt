@@ -1,9 +1,9 @@
-package com.missouristate.chapter_two
+package com.missouristate.chapter_three
 
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.missouristate.chapter_two.databinding.ActivityMainBinding
+import com.missouristate.chapter_three.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
