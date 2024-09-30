@@ -103,5 +103,4 @@ class MainActivity : AppCompatActivity() {
         super.onResume()
         Log.d(TAG,"onResume() called")
     }
-
 }
