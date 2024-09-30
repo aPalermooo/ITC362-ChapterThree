@@ -99,5 +99,9 @@ class MainActivity : AppCompatActivity() {
         Log.d(TAG,"onDestroy() called")
     }
 
+    override fun onResume() {
+        super.onResume()
+        Log.d(TAG,"onResume() called")
+    }
 
 }
